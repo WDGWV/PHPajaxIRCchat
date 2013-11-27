@@ -58,9 +58,13 @@ Known bugs
 
 =====
 Limitations
-=====
+
 Feel free to copy/modify this software, you can fork, or submit a pull request.
 Do not remove the WDGWV Texts. (yes you may add you've helped with the software!)
 
+Last note
+=====
+
 -- Have fun!
 Wesley de Groot, CEO of WDGWV.
+http://www.wdgwv.com
